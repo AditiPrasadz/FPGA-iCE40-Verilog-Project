@@ -24,7 +24,7 @@ brew install --HEAD icestorm yosys nextpnr-ice40
 
 ## Installation Windows
 
-Good luck [Micro$oft Winblows Installation](https://wiki.icebreaker-fpga.com/wiki/Getting_started)
+[Micro$oft Winblows Installation](https://wiki.icebreaker-fpga.com/wiki/Getting_started)
 
 ## Generate and upload
 
