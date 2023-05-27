@@ -1,4 +1,4 @@
-# Smart Sensors Project Group 4
+# Smart Sensors Project
 
 ## Installation GNU/Linux using apt (complicated lol but unbiased)
 
