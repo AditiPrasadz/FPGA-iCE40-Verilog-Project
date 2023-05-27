@@ -1,0 +1,32 @@
+# 12 MHz clock
+set_io -nowarn clk 35
+
+# LEDs and Button
+
+set_io -nowarn led_blue 3
+set_io -nowarn led_green 4
+
+# switches
+
+set_io -nowarn switch4 43
+#set_io -nowarn switch3 25
+set_io -nowarn switch2 34
+#set_io -nowarn switch1 23
+
+# RGB LED Driver
+
+# SPI
+set_io -nowarn spi_miso 25
+set_io -nowarn spi_mosi 26
+set_io -nowarn spi_cs 23
+set_io -nowarn spi_clk 27
+
+# PMOD 1A
+
+# PMOD 1B
+
+# LEDs and Buttons (PMOD 2)
+
+# UART
+
+set_io -nowarn uart_tx 48
